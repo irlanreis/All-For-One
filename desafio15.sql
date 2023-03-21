@@ -1,3 +1,2 @@
-SELECT HOUR(submited_date) AS submited_hour
-FROM purchase_orders;
+SELECT HOUR(submitted_date) AS submitted_hour
 FROM purchase_orders;
